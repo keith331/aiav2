@@ -1,0 +1,10 @@
+acquisition:
+  autosave_folder: C:\save_data
+  duration: 6
+  high_pass: '100'
+  low_pass: '10000'
+  weighting: A-wt
+  window: None
+advanced_settings:
+  deep_learning: 2D_CNN
+  mixed_noise: false
